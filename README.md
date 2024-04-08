@@ -1,6 +1,3 @@
-WAV-Album-Tagger
-A simple script to add metadata to multiple WAV files at once using pytaglib.
-
 Instructions: 
 
 1 - Before running the script, make sure you have installed the necessary dependencies (pytaglib and pandas).
