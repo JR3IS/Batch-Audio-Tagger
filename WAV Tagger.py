@@ -1,6 +1,6 @@
 # Make sure your files begin with the track number followed by "_" so they can be matched to the correct line of data. The delimiter can be changed on line 18.
 
-# Just edit the csv file, specify the folder path on line 15 and run.
+# Edit the csv file, specify the folder path and run.
 
 import os
 import pandas as pd
