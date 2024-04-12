@@ -1,5 +1,3 @@
-# WAV Album Tagger
-
 # Make sure your files begin with the track number followed by "_" so they can be matched to the correct line of data.
 
 # Edit the csv file, specify the folder path and run.
