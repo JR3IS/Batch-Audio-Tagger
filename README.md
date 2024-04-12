@@ -10,7 +10,7 @@ track number,title,artist,album,album artist,year,publisher
 1,Track 1,Artist 1,Album Name,Various Artists,2024,Publisher Name
 2,Track 2,Artist 2,Album Name,Various Artists,2024,Publisher Name
 
-3 - Ensure that the names of the WAV files begin with the track number followed by "_" (e.g., "1_Track1.wav", "2_Track2.wav", etc.) This ID will be used to match the files with the corresponding lines in the CSV.
+3 - Ensure that the names of the files begin with the track number followed by "_" (e.g., "1_Track1.wav", "2_Track2.wav", etc.) This ID will be used to match the files with the corresponding lines in the CSV.
 
 4 - Write the folder path for your WAV files in the script.
 
