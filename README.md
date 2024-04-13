@@ -1,4 +1,4 @@
-Instructions: 
+How to use:
 
 1 - Before running the script, make sure you have installed the necessary dependencies (pytaglib and pandas).
 
