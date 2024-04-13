@@ -1,4 +1,4 @@
-# Make sure your files begin with the track number followed by "_" so they can be matched to the correct line of data.
+# Make sure your files begin with the track number followed by "-" so they can be matched to the correct line of data.
 # Edit the csv file, specify the folder path and run.
 
 # Supported file types: FLAC, WAV, MP3, AIFF, OGG.
@@ -16,7 +16,7 @@ source_folder = "Insert folder path here"
 
 # Tag and Rename function
 def tag(file_name,metadata_df,source_folder,file_extension):
-        track_number = int(file_name.split("_")[0])  # Extract track number from filename
+        track_number = int(file_name.split("-")[0])  # Extract track number from filename
         track_metadata = metadata_df[metadata_df["track number"] == track_number]
         
         if not track_metadata.empty:
