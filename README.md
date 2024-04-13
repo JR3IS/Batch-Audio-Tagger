@@ -19,3 +19,5 @@ track number,title,artist,album,album artist,year,publisher
 
 Troubleshooting:
 If you encounter permission errors when running the script, make sure that the WAV files are not being used by other processes and that you have the necessary permissions to modify them.
+
+Supported file types: FLAC, WAV, MP3, AIFF, OGG.
